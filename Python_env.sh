@@ -1,0 +1,2 @@
+mkdir credentials
+mkdir activities
